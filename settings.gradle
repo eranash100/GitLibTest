@@ -1,3 +1,4 @@
+include ':MovingBackground'
 include ':GitLib'
 include ':app'
 rootProject.name = "GitTest4"
